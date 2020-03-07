@@ -1,5 +1,7 @@
 package cn.com.java.test;
 
+import org.junit.Test;
+
 import java.util.Arrays;
 
 /**
@@ -32,5 +34,10 @@ public class Demo02 {
 
     static class MyData{
         int a = 10;
+    }
+
+    @Test
+    public void Test01(){
+
     }
 }
