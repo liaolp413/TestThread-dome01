@@ -38,6 +38,6 @@ public class Demo02 {
 
     @Test
     public void Test01(){
-
+        System.out.println("修改了测试方法1");
     }
 }
